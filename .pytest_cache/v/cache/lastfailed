@@ -1,0 +1,11 @@
+{
+  "TODO/test/test_admin.py::test_admin_read_all_authenticated": true,
+  "TODO/test/test_admin.py::test_admin_delete_todo": true,
+  "TODO/test/test_todos.py::test_delete_todo": true,
+  "TODO/test/test_users.py::test_return_user": true,
+  "TODO/test/test_users.py::test_change_password_success": true,
+  "TODO/test/test_users.py::test_change_password_invalid_current_password": true,
+  "TODO/test/test_users.py::test_change_phone_number_success": true,
+  "TODO/test/test_user.py::test_not_update_profile": true,
+  "TODO/test/test_user.py::test_not_authenticate_update_profile": true
+}
